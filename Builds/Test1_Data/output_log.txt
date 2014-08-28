@@ -1,0 +1,958 @@
+Initialize engine version: 4.3.0f4 (e01000627d60)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [aticfx32.dll 8.17.10.1280]
+    Renderer: AMD Radeon HD 6800 Series
+    Vendor:   ATI
+    VRAM:     1007 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=1
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\Projects\Unity\Unity Networking\Builds\Test1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\Projects\Unity\Unity Networking\Builds\Test1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\Projects\Unity\Unity Networking\Builds\Test1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\Projects\Unity\Unity Networking\Builds\Test1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.136 seconds
+desktop: 1680x1050 60Hz; virtual: 2960x1050 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Initialize engine version: 4.3.0f4 (e01000627d60)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [aticfx32.dll 8.17.10.1280]
+    Renderer: AMD Radeon HD 6800 Series
+    Vendor:   ATI
+    VRAM:     1007 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=1
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\Projects\Unity\Unity Networking\Builds\Test1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\Projects\Unity\Unity Networking\Builds\Test1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\Projects\Unity\Unity Networking\Builds\Test1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\Projects\Unity\Unity Networking\Builds\Test1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.043 seconds
+desktop: 1680x1050 60Hz; virtual: 2960x1050 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+UnloadTime: 0.193892 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 114.
+Total: 0.564021 ms (FindLiveObjects: 0.007329 ms CreateObjectMapping: 0.008328 ms MarkObjects: 0.199556 ms  DeleteObjects: 0.007662 ms)
+
+sendto failed with code -1 for char 9 and length 1464.
+sendto failed with code -1 for char 9 and length 1464.
+UnloadTime: 0.193226 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 128.
+Total: 0.552361 ms (FindLiveObjects: 0.005330 ms CreateObjectMapping: 0.008328 ms MarkObjects: 0.190561 ms  DeleteObjects: 0.002332 ms)
+
+sendto failed with code -1 for char 9 and length 1464.
+Connected to master server at 67.225.180.24:23466
+ 
+(Filename:  Line: 2479)
+
+Incoming host list query response from master server.
+ 
+(Filename:  Line: 2479)
+
+UnloadTime: 0.184897 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 114.
+Total: 0.595004 ms (FindLiveObjects: 0.004664 ms CreateObjectMapping: 0.007995 ms MarkObjects: 0.155580 ms  DeleteObjects: 0.002332 ms)
+
+Incoming host list query response from master server.
+ 
+(Filename:  Line: 2479)
+
+UnloadTime: 0.249195 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 114.
+Total: 0.524043 ms (FindLiveObjects: 0.012659 ms CreateObjectMapping: 0.015991 ms MarkObjects: 0.153248 ms  DeleteObjects: 0.004997 ms)
+
+sendto failed with code -1 for char 9 and length 1464.
+sendto failed with code -1 for char 9 and length 1464.
+sendto failed with code -1 for char 9 and length 1464.
+sendto failed with code -1 for char 9 and length 1464.
+Connected to master server at 67.225.180.24:23466
+ 
+(Filename:  Line: 2479)
+
+Incoming host list query response from master server.
+ 
+(Filename:  Line: 2479)
+
+Running as server. Player ID is 0.
+ 
+(Filename:  Line: 2479)
+
+Attempting to connect to master server at 67.225.180.24:23466
+ 
+(Filename:  Line: 2479)
+
+sendto failed with code -1 for char 9 and length 1464.
+sendto failed with code -1 for char 9 and length 1464.
+sendto failed with code -1 for char 9 and length 1464.
+sendto failed with code -1 for char 9 and length 1464.
+sendto failed with code -1 for char 9 and length 1464.
+sendto failed with code -1 for char 9 and length 1464.
+sendto failed with code -1 for char 9 and length 1464.
+sendto failed with code -1 for char 9 and length 1464.
+Connected to facilitator at 67.225.180.24:50005
+
+ 
+(Filename:  Line: 2479)
+
+Connected to master server at 67.225.180.24:23466
+ 
+(Filename:  Line: 2479)
+
+Sent host registration to master server, registering a NAT assisted game as
+ "Game 1", 1, 6, not password protected, ""
+ 
+(Filename:  Line: 2489)
+
+Received identifier 0 from master server
+ 
+(Filename:  Line: 2479)
+
+Incoming host list query response from master server.
+ 
+(Filename:  Line: 2479)
+
+Running as client. No player ID set yet.
+ 
+(Filename:  Line: 2479)
+
+Connected to 192.168.1.7:25000
+
+ 
+(Filename:  Line: 2479)
+
+New connection established (192.168.1.7:52498)
+ 
+(Filename:  Line: 2479)
+
+Network protocol version 0 connected
+ 
+(Filename:  Line: 2489)
+
+New scope index 0 is now in scope for SceneID: 1 Level Prefix: 0
+ 
+(Filename:  Line: 2479)
+
+Allocated 2 batches of size 50 for player 1
+ 
+(Filename:  Line: 2489)
+
+Sent initalization to player 1
+ 
+(Filename:  Line: 2479)
+
+Sending RPC failed because 'SyncChat' parameter 0 was null
+ 
+(Filename:  Line: 380)
+
+Sending generic initial state update, broadcast on, view ID 'SceneID: 1 Level Prefix: 0'
+
+ 
+(Filename:  Line: 2489)
+
+Set player ID to 1
+
+ 
+(Filename:  Line: 2479)
+
+Received state update for view ID SceneID: 1 Level Prefix: 0
+
+ 
+(Filename:  Line: 2489)
+
+Sent RPC call 'SyncChat' to all connected clients
+
+ 
+(Filename:  Line: 2479)
+
+Received RPC 'SyncChat'- mode 2 - sender 192.168.1.7:25000
+ 
+(Filename:  Line: 2489)
+
+Relay RPC - name: SyncChat - mode 2 - sender 192.168.1.7:25000
+ 
+(Filename:  Line: 2489)
+
+Received RPC 'PrintText'- mode 2 - sender 192.168.1.7:52498
+ 
+(Filename:  Line: 2489)
+
+Relay RPC - name: PrintText - mode 2 - sender 192.168.1.7:52498
+ 
+(Filename:  Line: 2489)
+
+Sent host update to master server with identifier 0
+ 
+(Filename:  Line: 2479)
+
+Received identifier 0 from master server
+ 
+(Filename:  Line: 2479)
+
+Received RPC 'SyncChat'- mode 2 - sender 192.168.1.7:52498
+ 
+(Filename:  Line: 2489)
+
+Relay RPC - name: SyncChat - mode 2 - sender 192.168.1.7:52498
+ 
+(Filename:  Line: 2489)
+
+Sent RPC call 'SyncChat' to all connected clients
+
+ 
+(Filename:  Line: 2479)
+
+Received RPC 'SyncChat'- mode 2 - sender 192.168.1.7:25000
+ 
+(Filename:  Line: 2489)
+
+Relay RPC - name: SyncChat - mode 2 - sender 192.168.1.7:25000
+ 
+(Filename:  Line: 2489)
+
+Sent RPC call 'GlobalLevel1' to all connected clients
+
+ 
+(Filename:  Line: 2479)
+
+Received RPC 'GlobalLevel1'- mode 2 - sender 192.168.1.7:25000
+ 
+(Filename:  Line: 2489)
+
+Relay RPC - name: GlobalLevel1 - mode 2 - sender 192.168.1.7:25000
+ 
+(Filename:  Line: 2489)
+
+UnloadTime: 0.255858 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 135.
+Total: 0.663965 ms (FindLiveObjects: 0.009661 ms CreateObjectMapping: 0.008661 ms MarkObjects: 0.321821 ms  DeleteObjects: 0.005330 ms)
+
+UnloadTime: 0.255525 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 129.
+Total: 0.617658 ms (FindLiveObjects: 0.006662 ms CreateObjectMapping: 0.008328 ms MarkObjects: 0.206885 ms  DeleteObjects: 0.002998 ms)
+
+UnloadTime: 0.288173 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 117.
+Total: 0.617658 ms (FindLiveObjects: 0.009994 ms CreateObjectMapping: 0.016657 ms MarkObjects: 0.259523 ms  DeleteObjects: 0.021987 ms)
+
+sendto failed with code -1 for char 9 and length 1464.
+New scope index 0 is now in scope for SceneID: 1 Level Prefix: 0
+ 
+(Filename:  Line: 2479)
+
+Sending generic initial state update, broadcast on, view ID 'SceneID: 1 Level Prefix: 0'
+
+ 
+(Filename:  Line: 2489)
+
+View ID SceneID: 1 Level Prefix: 0 not found during lookup. Strange behaviour may occur
+ 
+(Filename:  Line: 1676)
+
+Received state update for view id' SceneID: 1 Level Prefix: 0' but the NetworkView doesn't exist
+ 
+(Filename:  Line: 2469)
+
+Sent RPC call 'GlobalLevel1' to all connected clients
+
+ 
+(Filename:  Line: 2479)
+
+Received RPC 'GlobalLevel1'- mode 2 - sender 192.168.1.7:25000
+ 
+(Filename:  Line: 2489)
+
+View ID SceneID: 1 Level Prefix: 0 not found during lookup. Strange behaviour may occur
+ 
+(Filename:  Line: 1676)
+
+Could't invoke RPC function 'GlobalLevel1' because the networkView 'SceneID: 1 Level Prefix: 0' doesn't exist
+ 
+(Filename:  Line: 2469)
+
+UnloadTime: 0.254525 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 133.
+Total: 0.657636 ms (FindLiveObjects: 0.006329 ms CreateObjectMapping: 0.007995 ms MarkObjects: 0.337146 ms  DeleteObjects: 0.005330 ms)
+
+sendto failed with code -1 for char 9 and length 1464.
+sendto failed with code -1 for char 9 and length 1464.
+sendto failed with code -1 for char 9 and length 1464.
+Connected to master server at 67.225.180.24:23466
+ 
+(Filename:  Line: 2479)
+
+Incoming host list query response from master server.
+ 
+(Filename:  Line: 2479)
+
+UnloadTime: 0.246197 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 117.
+Total: 0.656303 ms (FindLiveObjects: 0.004664 ms CreateObjectMapping: 0.007995 ms MarkObjects: 0.218878 ms  DeleteObjects: 0.011327 ms)
+
+New scope index 0 is now in scope for SceneID: 1 Level Prefix: 0
+ 
+(Filename:  Line: 2479)
+
+Sending generic initial state update, broadcast on, view ID 'SceneID: 1 Level Prefix: 0'
+
+ 
+(Filename:  Line: 2489)
+
+View ID SceneID: 1 Level Prefix: 0 not found during lookup. Strange behaviour may occur
+ 
+(Filename:  Line: 1676)
+
+Received state update for view id' SceneID: 1 Level Prefix: 0' but the NetworkView doesn't exist
+ 
+(Filename:  Line: 2469)
+
+Incoming host list query response from master server.
+ 
+(Filename:  Line: 2479)
+
+Sent RPC call 'GlobalLevel2' to all connected clients
+
+ 
+(Filename:  Line: 2479)
+
+Received RPC 'GlobalLevel2'- mode 2 - sender 192.168.1.7:25000
+ 
+(Filename:  Line: 2489)
+
+View ID SceneID: 1 Level Prefix: 0 not found during lookup. Strange behaviour may occur
+ 
+(Filename:  Line: 1676)
+
+Could't invoke RPC function 'GlobalLevel2' because the networkView 'SceneID: 1 Level Prefix: 0' doesn't exist
+ 
+(Filename:  Line: 2469)
+
+UnloadTime: 0.227540 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 133.
+Total: 0.619323 ms (FindLiveObjects: 0.005996 ms CreateObjectMapping: 0.008328 ms MarkObjects: 0.279512 ms  DeleteObjects: 0.005330 ms)
+
+UnloadTime: 0.265519 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 117.
+Total: 0.606997 ms (FindLiveObjects: 0.004664 ms CreateObjectMapping: 0.007995 ms MarkObjects: 0.274847 ms  DeleteObjects: 0.015991 ms)
+
+New scope index 0 is now in scope for SceneID: 1 Level Prefix: 0
+ 
+(Filename:  Line: 2479)
+
+Sending generic initial state update, broadcast on, view ID 'SceneID: 1 Level Prefix: 0'
+
+ 
+(Filename:  Line: 2489)
+
+View ID SceneID: 1 Level Prefix: 0 not found during lookup. Strange behaviour may occur
+ 
+(Filename:  Line: 1676)
+
+Received state update for view id' SceneID: 1 Level Prefix: 0' but the NetworkView doesn't exist
+ 
+(Filename:  Line: 2469)
+
+Incoming host list query response from master server.
+ 
+(Filename:  Line: 2479)
+
+UnloadTime: 0.274847 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 117.
+Total: 0.575348 ms (FindLiveObjects: 0.006662 ms CreateObjectMapping: 0.008661 ms MarkObjects: 0.224542 ms  DeleteObjects: 0.012659 ms)
+
+sendto failed with code -1 for char 9 and length 1464.
+sendto failed with code -1 for char 9 and length 1464.
+sendto failed with code -1 for char 9 and length 1464.
+Sent RPC call 'GlobalLevel2' to all connected clients
+
+ 
+(Filename:  Line: 2479)
+
+Received RPC 'GlobalLevel2'- mode 2 - sender 192.168.1.7:25000
+ 
+(Filename:  Line: 2489)
+
+Relay RPC - name: GlobalLevel2 - mode 2 - sender 192.168.1.7:25000
+ 
+(Filename:  Line: 2489)
+
+UnloadTime: 0.202887 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 133.
+Total: 0.507385 ms (FindLiveObjects: 0.006329 ms CreateObjectMapping: 0.008661 ms MarkObjects: 0.183565 ms  DeleteObjects: 0.003664 ms)
+
+UnloadTime: 0.210883 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 127.
+Total: 0.488729 ms (FindLiveObjects: 0.004997 ms CreateObjectMapping: 0.008328 ms MarkObjects: 0.132260 ms  DeleteObjects: 0.002665 ms)
+
+sendto failed with code -1 for char 9 and length 1464.
+Connected to master server at 67.225.180.24:23466
+ 
+(Filename:  Line: 2479)
+
+Incoming host list query response from master server.
+ 
+(Filename:  Line: 2479)
+
+UnloadTime: 0.289839 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 117.
+Total: 0.632316 ms (FindLiveObjects: 0.004330 ms CreateObjectMapping: 0.008328 ms MarkObjects: 0.286174 ms  DeleteObjects: 0.016657 ms)
+
+New scope index 0 is now in scope for SceneID: 1 Level Prefix: 0
+ 
+(Filename:  Line: 2479)
+
+Sending generic initial state update, broadcast on, view ID 'SceneID: 1 Level Prefix: 0'
+
+ 
+(Filename:  Line: 2489)
+
+View ID SceneID: 1 Level Prefix: 0 not found during lookup. Strange behaviour may occur
+ 
+(Filename:  Line: 1676)
+
+Received state update for view id' SceneID: 1 Level Prefix: 0' but the NetworkView doesn't exist
+ 
+(Filename:  Line: 2469)
+
+Incoming host list query response from master server.
+ 
+(Filename:  Line: 2479)
+
+UnloadTime: 0.274847 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 117.
+Total: 0.521378 ms (FindLiveObjects: 0.004664 ms CreateObjectMapping: 0.008328 ms MarkObjects: 0.181233 ms  DeleteObjects: 0.011327 ms)
+
+Incoming host list query response from master server.
+ 
+(Filename:  Line: 2479)
+
+Disconnecting: 192.168.1.7:52498
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+A client has disconnected from this server. Player ID 1, IP 192.168.1.7:52498
+ 
+(Filename:  Line: 2479)
+
+0 RPC function were removed with RemoveRPC
+ 
+(Filename:  Line: 2479)
+
+Destroying objects belonging to player 1
+ 
+(Filename:  Line: 2479)
+
+No objects for the given player ID were deleted 1
+ 
+(Filename:  Line: 1368)
+
+Sent host update to master server with identifier 0
+ 
+(Filename:  Line: 2479)
+
+The server has disconnected from the client. Most likely the server has shut down.
+ 
+(Filename:  Line: 740)
+
+Received identifier 0 from master server
+ 
+(Filename:  Line: 2479)
+
+Running as client. No player ID set yet.
+ 
+(Filename:  Line: 2479)
+
+Connected to 192.168.1.7:25000
+
+ 
+(Filename:  Line: 2479)
+
+New connection established (192.168.1.7:62976)
+ 
+(Filename:  Line: 2479)
+
+Network protocol version -2130706432 connected
+ 
+(Filename:  Line: 2489)
+
+Initial state being sent to index 0
+ 
+(Filename:  Line: 2479)
+
+Scope index 0 is now in scope for SceneID: 1 Level Prefix: 0
+ 
+(Filename:  Line: 2479)
+
+Allocated 2 batches of size 50 for player 2
+ 
+(Filename:  Line: 2489)
+
+Sent initalization to player 2
+ 
+(Filename:  Line: 2479)
+
+Sending RPC failed because 'SyncChat' parameter 0 was null
+ 
+(Filename:  Line: 380)
+
+Initial state being sent to index 0
+ 
+(Filename:  Line: 2479)
+
+Sending generic initial state update, broadcast on, view ID 'SceneID: 1 Level Prefix: 0'
+
+ 
+(Filename:  Line: 2489)
+
+Set player ID to 2
+
+ 
+(Filename:  Line: 2479)
+
+Received state update for view ID SceneID: 1 Level Prefix: 0
+
+ 
+(Filename:  Line: 2489)
+
+Disconnecting: 192.168.1.7:62976
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+The server haA disconnected liefrom the client. Most likely the server has shut down.
+ 
+.16l.ena:6297 i e
+(Filen
+a
+me:  Line: 2479)
+
+0 RPC function were removed with RemoveRPC
+ 
+(Filename:  Line: 2479)
+
+Destroying objects belonging to player 2
+ 
+(Filename:  Line: 2479)
+
+No objects for the given player ID were deleted 2
+ 
+(Filename:  Line: 1368)
+
+Running as client. No player ID set yet.
+ 
+(Filename:  Line: 2479)
+
+New connection established (192.168.1.7:62977)
+ 
+(Filename:  Line: 2479)
+
+Connected to 192.168.1.7:25000
+
+ 
+(Filename:  Line: 2479)
+
+Network protocol version -2130706432 connected
+ 
+(Filename:  Line: 2489)
+
+Initial state being sent to index 0
+ 
+(Filename:  Line: 2479)
+
+Scope index 0 is now in scope for SceneID: 1 Level Prefix: 0
+ 
+(Filename:  Line: 2479)
+
+Allocated 2 batches of size 50 for player 3
+ 
+(Filename:  Line: 2489)
+
+Sent initalization to player 3
+ 
+(Filename:  Line: 2479)
+
+Sending RPC failed because 'SyncChat' parameter 0 was null
+ 
+(Filename:  Line: 380)
+
+Initial state being sent to index 0
+ 
+(Filename:  Line: 2479)
+
+Sending generic initial state update, broadcast on, view ID 'SceneID: 1 Level Prefix: 0'
+
+ 
+(Filename:  Line: 2489)
+
+Set player ID to 3
+
+ 
+(Filename:  Line: 2479)
+
+Received state update for view ID SceneID: 1 Level Prefix: 0
+
+ 
+(Filename:  Line: 2489)
+
+Disconnecting: 192.168.1.7:62977
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+A client has disconnected from this server. Player ID 3, IP 192.168.1.7:62977
+ 
+(Filename:  Line: 2479)
+
+0 RPC function were removed with RemoveRPC
+ 
+(Filename:  Line: 2479)
+
+Destroying objects belonging to player 3
+ 
+(Filename:  Line: 2479)
+
+No objects for the given player ID were deleted 3
+ 
+(Filename:  Line: 1368)
+
+The server has disconnected from the client. Most likely the server has shut down.
+ 
+(Filename:  Line: 740)
+
+Running as client. No player ID set yet.
+ 
+(Filename:  Line: 2479)
+
+Connected to 192.168.1.7:25000
+
+ 
+(Filename:  Line: 2479)
+
+New connection established (192.168.1.7:62978)
+ 
+(Filename:  Line: 2479)
+
+Network protocol version -2130706432 connected
+ 
+(Filename:  Line: 2489)
+
+Initial state being sent to index 0
+ 
+(Filename:  Line: 2479)
+
+Scope index 0 is now in scope for SceneID: 1 Level Prefix: 0
+ 
+(Filename:  Line: 2479)
+
+Allocated 2 batches of size 50 for player 4
+ 
+(Filename:  Line: 2489)
+
+Sent initalization to player 4
+ 
+(Filename:  Line: 2479)
+
+Sending RPC failed because 'SyncChat' parameter 0 was null
+ 
+(Filename:  Line: 380)
+
+Initial state being sent to index 0
+ 
+(Filename:  Line: 2479)
+
+Sending generic initial state update, broadcast on, view ID 'SceneID: 1 Level Prefix: 0'
+
+ 
+(Filename:  Line: 2489)
+
+Set player ID to 4
+
+ 
+(Filename:  Line: 2479)
+
+Received state update for view ID SceneID: 1 Level Prefix: 0
+
+ 
+(Filename:  Line: 2489)
+
+Sent host update to master server with identifier 0
+ 
+(Filename:  Line: 2479)
+
+Received identifier 0 from master server
+ 
+(Filename:  Line: 2479)
+
+Disconnecting: 192.168.1.7:25000
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+The server has disconnected from the client. Most likely the server has shut down.
+ 
+(Filename:  Line: 740)
+
+A client has disconnected from this server. Player ID 4, IP 192.168.1.7:62978
+ 
+(Filename:  Line: 2479)
+
+0 RPC function were removed with RemoveRPC
+ 
+(Filename:  Line: 2479)
+
+Destroying objects belonging to player 4
+ 
+(Filename:  Line: 2479)
+
+No objects for the given player ID were deleted 4
+ 
+(Filename:  Line: 1368)
+
+sendto failed with code -1 for char 9 and length 1464.
+sendto failed with code -1 for char 9 and length 1464.
+sendto failed with code -1 for char 9 and length 1464.
+sendto failed with code -1 for char 9 and length 1464.
+Connected to master server at 67.225.180.24:23466
+ 
+(Filename:  Line: 2479)
+
+Incoming host list query response from master server.
+ 
+(Filename:  Line: 2479)
+
+Sent host update to master server with identifier 0
+ 
+(Filename:  Line: 2479)
+
+Received identifier 0 from master server
+ 
+(Filename:  Line: 2479)
+
+Running as client. No player ID set yet.
+ 
+(Filename:  Line: 2479)
+
+New cConnecoednnection established (
+1
+92
+.168.1.7:63188)
+ 
+(Fi9l
+e
+name:  Line: 2479)
+
+Network protocol version -2130706432 connected
+ 
+(Filename:  Line: 2489)
+
+Initial state being sent to index 0
+ 
+(Filename:  Line: 2479)
+
+Scope index 0 is now in scope for SceneID: 1 Level Prefix: 0
+ 
+(Filename:  Line: 2479)
+
+Allocated 2 batches of size 50 for player 5
+ 
+(Filename:  Line: 2489)
+
+Sent initalization to player 5
+ 
+(Filename:  Line: 2479)
+
+Sending RPC failed because 'SyncChat' parameter 0 was null
+ 
+(Filename:  Line: 380)
+
+Initial state being sent to index 0
+ 
+(Filename:  Line: 2479)
+
+Sending generic initial state update, broadcast on, view ID 'SceneID: 1 Level Prefix: 0'
+
+ 
+(Filename:  Line: 2489)
+
+Set player ID to 5
+
+ 
+(Filename:  Line: 2479)
+
+Received state update for view ID SceneID: 1 Level Prefix: 0
+
+ 
+(Filename:  Line: 2489)
+
+The server has disconnected from the client. Most likely the server has shut down.
+ 
+(Filename:  Line: 740)
+
+Running as server. Player ID is 0.
+ 
+(Filename:  Line: 2479)
+
+Attempting to connect to master server at 67.225.180.24:23466
+ 
+(Filename:  Line: 2479)
+
+sendto failed with code -1 for char 9 and length 1464.
+sendto failed with code -1 for char 9 and length 1464.
+sendto failed with code -1 for char 9 and length 1464.
+sendto failed with code -1 for char 9 and length 1464.
+Connected to master server at 67.225.180.24:23466
+ 
+(Filename:  Line: 2479)
+
+Sent host registration to master server, registering a non-NAT assisted game as
+ "Game 1", 1, 6, not password protected, ""
+ 
+(Filename:  Line: 2489)
+
+Received identifier 0 from master server
+ 
+(Filename:  Line: 2479)
+
+Running as client. No player ID set yet.
+ 
+(Filename:  Line: 2479)
+
+Connected to 192.168.1.7:25000
+
+ 
+(Filename:  Line: 2479)
+
+New connection established (192.168.1.7:65376)
+ 
+(Filename:  Line: 2479)
+
+Network protocol version 0 connected
+ 
+(Filename:  Line: 2489)
+
+New scope index 0 is now in scope for SceneID: 1 Level Prefix: 0
+ 
+(Filename:  Line: 2479)
+
+Allocated 2 batches of size 50 for player 1
+ 
+(Filename:  Line: 2489)
+
+Sent initalization to player 1
+ 
+(Filename:  Line: 2479)
+
+Sending RPC failed because 'SyncChat' parameter 0 was null
+ 
+(Filename:  Line: 380)
+
+Sending generic initial state update, broadcast on, view ID 'SceneID: 1 Level Prefix: 0'
+
+ 
+(Filename:  Line: 2489)
+
+Set player ID to 1
+
+ 
+(Filename:  Line: 2479)
+
+Received state update for view ID SceneID: 1 Level Prefix: 0
+
+ 
+(Filename:  Line: 2489)
+
+Sent RPC call 'GlobalLevel2' to all connected clients
+
+ 
+(Filename:  Line: 2479)
+
+Received RPC 'GlobalLevel2'- mode 2 - sender 192.168.1.7:25000
+ 
+(Filename:  Line: 2489)
+
+Relay RPC - name: GlobalLevel2 - mode 2 - sender 192.168.1.7:25000
+ 
+(Filename:  Line: 2489)
+
+UnloadTime: 0.242199 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 127.
+Total: 0.649307 ms (FindLiveObjects: 0.006662 ms CreateObjectMapping: 0.008328 ms MarkObjects: 0.308162 ms  DeleteObjects: 0.004997 ms)
+
+UnloadTime: 0.189561 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 133.
+Total: 0.601333 ms (FindLiveObjects: 0.006996 ms CreateObjectMapping: 0.008661 ms MarkObjects: 0.168573 ms  DeleteObjects: 0.002665 ms)
+
+UnloadTime: 0.229539 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 117.
+Total: 0.552027 ms (FindLiveObjects: 0.009994 ms CreateObjectMapping: 0.016990 ms MarkObjects: 0.203887 ms  DeleteObjects: 0.012326 ms)
+
+sendto failed with code -1 for char 9 and length 1464.
+sendto failed with code -1 for char 9 and length 1464.
+Disconnecting: 192.168.1.7:25000
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+The server has disconnected from the client. Most likely the server has shut down.
+ 
+(Filename:  Line: 740)
+
+A client has disconnected from this server. Player ID 1, IP 192.168.1.7:65376
+ 
+(Filename:  Line: 2479)
+
+sendto failed with code -1 for char 9 and length 1464.
+sendto failed with code -1 for char 9 and length 1464.
+Connected to master server at 67.225.180.24:23466
+ 
+(Filename:  Line: 2479)
+
+Incoming host list query response from master server.
+ 
+(Filename:  Line: 2479)
+
+UnloadTime: 0.280511 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 117.
+Total: 0.560356 ms (FindLiveObjects: 0.006996 ms CreateObjectMapping: 0.008661 ms MarkObjects: 0.206219 ms  DeleteObjects: 0.012659 ms)
+
+sendto failed with code -1 for char 9 and length 1464.
+sendto failed with code -1 for char 9 and length 1464.
+sendto failed with code -1 for char 9 and length 1464.
+sendto failed with code -1 for char 9 and length 1464.

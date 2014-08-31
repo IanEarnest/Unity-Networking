@@ -1,9 +1,15 @@
 Unity Networking
 ====
 
-Made with Unity.
+Introduction
+------------
 
-Version 0.1.2
+Unity networking example with a lobby, levels and chat.
+
+Purpose
+-------
+
+Configure networking examples for use in Unity games.
 
 To-do list
 ==========

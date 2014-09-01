@@ -7,9 +7,6 @@ public class MainMenu : MonoBehaviour {
 	
 	// MainMenuWindow
 	void MainMenuWindow(int windowID) {
-		if (GUILayout.Button("Singleplayer")) {
-			//Application.LoadLevel("Singleplayer");
-		}
 		if (GUILayout.Button("Lobby")) {
 			Application.LoadLevel("Lobby");
 		}
